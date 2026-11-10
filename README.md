@@ -1,4 +1,5 @@
 # 💸 App de Finanças Pessoais de Alexandre Torres com Vibe Coding
+O Projeto foi desenvolvido como um desafio do projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot web, a prpoposta é criar um APP de organização Financeira pessoal baseado em interações em linguagem natural. 
 
 PRD Refinado no Copilot Web
 
